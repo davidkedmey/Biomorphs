@@ -1,0 +1,14 @@
+body, html {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .biomorph-container {
+    margin: 20px;
+  }
+  
+  canvas {
+    border: 1px solid #000;
+    margin: 10px;
+  }
+  
